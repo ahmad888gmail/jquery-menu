@@ -17,7 +17,7 @@ The following structure is expected:
 
 You can use `menuitem`, `menuitemradio` or `menuitemcheckbox`.
 
-Then execute the plugin:
+Then execute the plugins:
 
 ```js
 $('.menu').menu();
