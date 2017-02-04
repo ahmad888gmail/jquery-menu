@@ -23,7 +23,7 @@ Then execute the plugins:
 $('.menu').menu();
 ```
 
-The input structure is then modified like so:
+The input structure is then modified like soooooooooooooooooooooooo:
 
 ```html
 <!-- simple flat menu -->
