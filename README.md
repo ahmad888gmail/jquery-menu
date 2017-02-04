@@ -17,13 +17,13 @@ The following structure is expected:
 Modification
 You can use `menuitem`, `menuitemradio` or `menuitemcheckbox`.
 
-Then execute the plugin:
+Then execute the plugins:
 
 ```js
 $('.menu').menu();
 ```
 
-The input structure is then modified like so:
+The input structure is then modified like soooooooooooooooooooooooo:
 
 ```html
 <!-- simple flat menu -->
