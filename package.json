@@ -26,7 +26,7 @@
     "accessibility",
     "a11y",
     "wai-aria"
-  ],
+  ],//just a comment
   "repository": {
     "type": "git",
     "url": "https://github.com/ianmcburnie/jquery-menu.git"

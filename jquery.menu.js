@@ -15,7 +15,7 @@
         for (var charCode = 65; charCode <= 90; charCode++) {
             map[charCode] = String.fromCharCode(charCode);
         }
-//this is a note
+//What is this note
         return map;
     }
 
