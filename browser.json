@@ -1,0 +1,10 @@
+{
+    "dependencies":[
+        {"require-run": "jquery"},
+        "jquery-next-id",
+        "jquery-click-flyout",
+        "jquery-common-keydown",
+        "jquery-roving-tabindex",
+        "jquery.menu.js"
+    ]
+}
